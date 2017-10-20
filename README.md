@@ -3,4 +3,8 @@ this is second branch
 third.
 fourth
 fiveth
-third branch is established again in master.
+<<<<<< HEAD
+third branch is established again in master merage.
+=======
+third branch is estabished.
+>>>>>>> third
