@@ -14,4 +14,8 @@ NO FF MERAGE.
 >>>>>>> second
 no ff merage.
 no bug.
+<<<<<<< Updated upstream
 bug again.
+=======
+branch second 
+>>>>>>> Stashed changes
